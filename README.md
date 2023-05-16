@@ -1,6 +1,6 @@
-DementiaScheduler
+Dementia Scheduler
 =========
-**DementiaScheduler**: Use Java Design Andriod App to help paitents and caretaker to manage time and contect their family.
+**Dementia Scheduler**: Android App to help paitents and caretaker to manage time and contect their family.
 # About Dementia Scheduler
 
 SFU-CMPT276 Introduction to Software Engineering
@@ -11,15 +11,15 @@ Project Name: Dementia Scheduler
 
 **Team Member**:
 
-Chenzheng Li            cla429@sfu.ca
+Chenzheng Li          
 
-Garvit Sardana         gsardana@sfu.ca
+Garvit Sardana        
 
-Gursahib Singh Badwal   gsb18@sfu.ca
+Gursahib Singh Badwal   
 
-Hongrui Fan             hongrui_fan@sfu.ca
+Hongrui Fan           
 
-Ozafa Mahmood           oym@sfu.ca
+Ozafa Mahmood         
 
 # Our Server
 http://williamoverflow.com:8080/
