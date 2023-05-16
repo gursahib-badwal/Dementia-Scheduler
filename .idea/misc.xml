@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android/app/src/main/res/layout/activity_second.xml" value="0.3567708333333333" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android/app/src/main/res/layout/activity_userprofile.xml" value="0.5" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android/app/src/main/res/layout/fragment_first.xml" value="0.3567708333333333" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android/app/src/main/res/layout/fragment_second.xml" value="0.3421875" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android_new/app/src/main/res/layout/activity_care_taker_page.xml" value="0.33" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android_new/app/src/main/res/layout/activity_dementia_page.xml" value="0.31302083333333336" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android_new/app/src/main/res/layout/activity_emergency_information_setting.xml" value="0.31302083333333336" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android_new/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Code/WilliamDaWorker/HoroFan/cmpt276_android_new/app/src/main/res/layout/activity_second.xml" value="0.5536458333333333" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.273" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/drawable/radius.xml" value="0.2935" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/activity_care_taker_page.xml" value="0.3619791666666667" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/activity_dementia_page.xml" value="0.3619791666666667" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/activity_emergency.xml" value="0.23333333333333334" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/activity_second.xml" value="0.381025641025641" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/emergency.xml" value="0.3619791666666667" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/fragment_home.xml" value="0.3619791666666667" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/fragment_profile.xml" value="0.3619791666666667" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/layout/fragment_setting.xml" value="0.3619791666666667" />
+        <entry key="..\:/SFU/CMPT276GIT/dementiascheduler/Sprint_1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

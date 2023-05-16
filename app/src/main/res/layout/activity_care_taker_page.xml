@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/graybackground"
+    tools:context=".CareTakerPageActivity">
+
+
+    <TextView
+        android:id="@+id/CareTakerHello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="This is Care Taker Page"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/SendText"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/CareTakerHello"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_chat_bubble_outline_24"
+        android:drawablePadding="20dp"
+        android:hint="You can text here"
+        android:shadowColor="@color/black"
+        android:textColorHint="@color/black" />
+
+
+    <LinearLayout
+        android:id="@+id/CareTsocialicons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/SendText"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/sendBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_below="@id/SendText"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:text="Send" />
+
+        <Button
+            android:id="@+id/CameraBtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:drawableTop="@drawable/ic_baseline_camera_alt_24" />
+
+        <Button
+            android:id="@+id/photoBtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:drawableTop="@drawable/ic_baseline_collections_24" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/timeSelect"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/CareTsocialicons"
+        android:width="300dp"
+        android:height="100dp"
+        android:drawableTop="@drawable/ic_baseline_access_time_24"
+        android:onClick="popTimePicker"
+        android:text="Select Time" />
+
+
+    <Button
+        android:id="@+id/CareTakerBackBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Back"/>
+
+
+</RelativeLayout>
